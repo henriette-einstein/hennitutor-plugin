@@ -50,7 +50,8 @@ Zettelkasten method. Works with any vault.
 
 ## Setup
 
-Clone the vault template from GitHub, then select the folder in Cowork. The `vault-knowledge` skill loads all rules and conventions automatically — no additional configuration needed.
+Clone the vault template from GitHub from https://github.com/henriette-einstein/HenniBase.git, then select the folder in Cowork. The `vault-knowledge` skill 
+loads all rules and conventions automatically — no additional configuration needed.
 
 ## Usage
 
