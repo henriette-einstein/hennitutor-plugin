@@ -35,6 +35,8 @@ flag: "https://..."
 location:
   - "51.1657"
   - "10.4515"
+icon: locate
+color: red
 tags: []
 areas: []
 ---

@@ -106,7 +106,7 @@ All 13 note types, their directories, required fields, and content guidelines.
 - **Length**: 200–1000 words
 - **Content**: Summary, main theses, relevance, quotes
 
-## Buch (Book)
+## Book
 - **Directory**: `60 Sources/Books/`
 - **Required YAML**: type, created, modified
 - **Recommended**: categories, authors, published, isbn, pages, publisher, cover, tags, areas, rating

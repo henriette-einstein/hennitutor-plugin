@@ -34,6 +34,8 @@ country: "[[Country]]"
 location:
   - "48.1351"
   - "11.5820"
+icon: building
+color: red
 tags: []
 areas: []
 ---

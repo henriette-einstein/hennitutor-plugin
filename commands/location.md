@@ -37,6 +37,8 @@ country: "[[Country]]"
 location:
   - "latitude"
   - "longitude"
+icon: map-pin
+color: red
 tags: []
 areas: []
 ---
