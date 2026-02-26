@@ -21,7 +21,9 @@ Every note operation MUST follow the rules in the reference files below.
 
 ## Core Rules (Always Apply)
 
-- **Language**: German (unless the user explicitly requests English)
+- **Language**: Check `.claude/CLAUDE.md` in the vault root for a "Writing Language"
+  setting — if present, use that language for all note content. Default to **German**
+  when no configuration file exists. Default to **English**.
 - **No H1 headings** in note body — Obsidian shows the filename as title
 - **Prose only** — no bullet points for narrative content (see writing rules)
 - **No semicolons (;)** anywhere — use period or comma instead

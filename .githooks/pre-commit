@@ -1,0 +1,8 @@
+#!/usr/bin/env bash
+set -e
+
+./build.sh
+
+PLUGIN_JSON=".claude-plugin/plugin.json"
+VERSION=$(grep '"version"' "$PLUGIN_JSON" | sed 's/.*"version"[[:space:]]*:[[:space:]]*"\([^"]*\)".*/\1/')
+git add "hennitutor-${VERSION}.zip"
