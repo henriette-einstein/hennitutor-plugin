@@ -1,0 +1,9 @@
+{
+  "name": "hennitutor",
+  "version": "0.1.0",
+  "description": "Obsidian knowledge base manager for historical research vaults using the Zettelkasten method",
+  "author": {
+    "name": "Armin Pfarr"
+  },
+  "keywords": ["obsidian", "zettelkasten", "history", "knowledge-management"]
+}
